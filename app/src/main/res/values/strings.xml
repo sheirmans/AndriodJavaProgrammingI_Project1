@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android_JavaI_Project1</string>
+    <string name="buttonSubmit">Submit Answer</string>
+    <string name="textViewScore">Score</string>
+    <string name="textViewQuizQuestion">#</string>
+    <string name="textViewQuestion">Question</string>
+    <string name="ratioButtonA">A</string>
+    <string name="ratioButtonB">B</string>
+    <string name="radioButtonC">C</string>
+    <string name="radioButtonD">D</string>
+    <string name="textViewQuestionTitle">Question</string>
+    <string name="textViewCurrentScore">0</string>
+    <string name="textViewMaxScore">0</string>
+    <string name="textViewPercent">0</string>
+    <string name="buttonPlayAgain">Play Again</string>
+</resources>
