@@ -222,7 +222,7 @@ public class QuizActivity extends AppCompatActivity {
                 // Answer is correct.
                 Log.d("ANSWER: ", "Correct");
                 currentScore++;
- //               Log.d("Current Score: ", toString(currentScore));
+                Log.d("Current Score: ", toString(currentScore));
             }
             else {
                 Log.d("ANSWER: ", "Incorrect");
