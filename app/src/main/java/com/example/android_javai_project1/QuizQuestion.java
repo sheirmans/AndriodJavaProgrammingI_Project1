@@ -96,7 +96,9 @@ public class QuizQuestion {
         /////////////////////////////////////////////////
         // TO-DO: Compare the passed in answer with the class' correct answer.
         /////////////////////////////////////////////////
-
+        if (this.correctAnswer == answer) {
+            return true;
+        }
         return false;
     }
 }
